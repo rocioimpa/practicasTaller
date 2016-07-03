@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467589263 source:/home/noe/Documentos/Taller de Programacion I/75.42 Taller de Programación I/Finales/Finales/Ej2/final2/main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<list>
+	<math.h>
+	<iterator>
+
